@@ -1,1 +1,1 @@
-Asi creas diferente hash, misma firma!
+This way you create different hashes, same digital signature!
